@@ -5,6 +5,7 @@
 //  Created by Domy on 2020/8/17.
 //  Copyright © 2020 Domy. All rights reserved.
 //
+/// 注意：着色器编译失败，可能会使着色器代码中包含注释导致，删掉注释即可
 
 #import "ViewController.h"
 #import <GLKit/GLKit.h>
