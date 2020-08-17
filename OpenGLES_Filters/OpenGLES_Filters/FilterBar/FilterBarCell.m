@@ -2,8 +2,8 @@
 //  FilterBarCell.m
 //  001--滤镜处理
 //
-//  Created by CC老师 on 2019/4/23.
-//  Copyright © 2019年 CC老师. All rights reserved.
+//  Created by CC on 2019/4/23.
+//  Copyright © 2019年 CC. All rights reserved.
 //
 
 
